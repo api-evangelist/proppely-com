@@ -1,4 +1,4 @@
-# proppely-com
+# Proppely
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,149 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-proppely-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://proppely.com/
+Proppely provides universal AI-powered property management software for landlords and property managers. It offers free unlimited units with features such as lease management, double‑entry accounting, maintenance tracking, e‑signatures, tenant portal, and optional online rent collection for $9.99 per month per payments account. The platform integrates AI agents via MCP, supports Gmail connect, and includes WhatsApp and Telegram AI numbers. Privacy policy is available at https://www.proppely.com/privacy.
+
+**Areas:** Property Management · AI · SaaS · Real Estate · Automation
+
+## Proppely on APIs.io
+
+Everything profiled for Proppely is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/proppely-com/](https://apis.io/providers/proppely-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [Proppely Accounting API](https://apis.io/apis/proppely-com/proppely-com-accounting-api/) — Accounting. Bills, charges, recorded payments, expenses, the ledger and budgets.
+- [Proppely Applications API](https://apis.io/apis/proppely-com/proppely-com-applications-api/) — Applications. Rental applications and decisions. No screening reports.
+- [Proppely Association API](https://apis.io/apis/proppely-com/proppely-com-association-api/) — Associations. HOA and condo association records.
+- [Proppely Banking API](https://apis.io/apis/proppely-com/proppely-com-banking-api/) — Banking. Bank connections, bank transactions and payment accounts. Restricted: a key holds this only when you tick it, and no third-party app ever will.
+- [Proppely Basics API](https://apis.io/apis/proppely-com/proppely-com-basics-api/) — Who a key is, what it can call, and its proposals.
+- [Proppely Communications API](https://apis.io/apis/proppely-com/proppely-com-communications-api/) — Communications. Email threads, templates and announcements. Every send is a proposal.
+- [Proppely Documents API](https://apis.io/apis/proppely-com/proppely-com-documents-api/) — Documents. Documents, templates and signature requests.
+- [Proppely Events API](https://apis.io/apis/proppely-com/proppely-com-events-api/) — The event feed and the events webhooks deliver.
+- [Proppely Leasing API](https://apis.io/apis/proppely-com/proppely-com-leasing-api/) — Leases. Leases, renewals, notices, move-ins, abstracts and legal matters.
+- [Proppely Maintenance API](https://apis.io/apis/proppely-com/proppely-com-maintenance-api/) — Maintenance. Maintenance requests, work orders, vendor assignment and comments.
+- [Proppely Marketing API](https://apis.io/apis/proppely-com/proppely-com-marketing-api/) — Marketing. Listings, prospects, leads, showings and your brokerage site.
+- [Proppely Properties API](https://apis.io/apis/proppely-com/proppely-com-properties-api/) — Properties. Properties, units, owners, assets, inspections and photos.
+- [Proppely Reports API](https://apis.io/apis/proppely-com/proppely-com-reports-api/) — Reports. Operational reports across your portfolio, saved and emailed reports.
+- [Proppely Residents API](https://apis.io/apis/proppely-com/proppely-com-residents-api/) — Residents. Resident records, profiles, portal access and renters insurance.
+- [Proppely Screening API](https://apis.io/apis/proppely-com/proppely-com-screening-api/) — Screening. Screening status. Scores and reports are never returned. Restricted: a key holds this only when you tick it, and no third-party app ever will.
+- [Proppely Tax API](https://apis.io/apis/proppely-com/proppely-com-tax-api/) — Tax and payroll. 1099s, W-2s and wage payments. Restricted: a key holds this only when you tick it, and no third-party app ever will.
+- [Proppely Vendors API](https://apis.io/apis/proppely-com/proppely-com-vendors-api/) — Vendors. Vendor records, invites and messages. Tax IDs are never returned.
+- [Proppely Webhooks API](https://apis.io/apis/proppely-com/proppely-com-webhooks-api/) — A key's own webhook endpoints.
+- [Proppely Workspace API](https://apis.io/apis/proppely-com/proppely-com-workspace-api/) — Workspace. Tasks, notes, the calendar, your team list and your own preferences.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Proppely Com Webhooks](https://apis.io/asyncapis/proppely-com/proppely-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Proppely Agentic Access](https://apis.io/agentic-access/proppely-com/proppely-com-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [EventEnvelope](https://apis.io/schemas/proppely-com/proppely-com-event-envelope/)
+- [WebhookEndpoint](https://apis.io/schemas/proppely-com/proppely-com-webhook-endpoint/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Proppely Com Context](https://apis.io/jsonld/proppely-com/proppely-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Proppely API Rules](https://apis.io/rules/proppely-com/proppely-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Proppely Authentication](https://apis.io/security/proppely-com/proppely-com-authentication/)
+- [Proppely Domain Security](https://apis.io/security/proppely-com/proppely-com-domain-security/)
+- [Proppely Trust Center](https://apis.io/security/proppely-com/proppely-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Proppely Plans Pricing](https://apis.io/plans/proppely-com/proppely-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.proppely.com/)
+- [API reference](https://www.proppely.com/developers)
+- [Pricing](https://www.proppely.com/pricing)
+- [Security](https://www.proppely.com/security)
+- [Compliance](https://www.proppely.com/security)
+- [Terms of service](https://www.proppely.com/terms)
+- [Privacy policy](https://www.proppely.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 54.5** — strong · rubric 0.28.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 65.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 16.7 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 64.3 |
+
+**Agent readiness 65.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/proppely-com/](https://apis.io/providers/proppely-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Proppely: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/proppely-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
